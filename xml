@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Andromo Blog</title>
+	<atom:link href="https://blog.andromo.com/feed/?_ga=2.7018609.2119943782.1565192289-905796556.1562216408" rel="self" type="application/rss+xml" />
+	<link>https://blog.andromo.com</link>
+	<description>Create Android apps without coding. Make your first app for free!</description>
+	<lastBuildDate>Wed, 07 Aug 2019 12:28:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.4</generator>
+
+<image>
+	<url>https://i1.wp.com/blog.andromo.com/wp-content/uploads/2019/01/Group-15.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Andromo Blog</title>
+	<link>https://blog.andromo.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">65950383</site>	<item>
+		<title>5 Important Lessons from FaceApp</title>
+		<link>https://blog.andromo.com/2019/5-important-lessons-you-can-learn-from-faceapp/</link>
+		<comments>https://blog.andromo.com/2019/5-important-lessons-you-can-learn-from-faceapp/#respond</comments>
+		<pubDate>Thu, 01 Aug 2019 11:10:55 +0000</pubDate>
+		<dc:creator><![CDATA[Mwenge Ngona]]></dc:creator>
+				<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Technology News]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=5086</guid>
+		<description><![CDATA[<p>FaceApp is taking the world by a storm. For many, this is the first time they are seeing or using the app. However, this is no new app. In fact, FaceApp just got a huge boost from an unlikely source &#8211; viral marketing. Using the power of sophisticated AI, shockingly near-perfect photo filters are allowing&#8230;</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2019/5-important-lessons-you-can-learn-from-faceapp/">5 Important Lessons from FaceApp</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<p>FaceApp is taking the world by a storm. For many, this is the first time they are seeing or using the app. However, this is no new app. In fact, <font color="#ff57f1">FaceApp just got a huge boost from an unlikely source &#8211; viral marketing.</font> Using the power of sophisticated AI, shockingly near-perfect photo filters are allowing people to travel through time to see what they would look like when they get old and much more.<br></p>
+
+
+
+<p>Artificial intelligence holds the key to endless new and exciting experiences we can develop for our ever-connected world. Soon, much of our world will be enhanced with AI. But I’m not going to bore you with all the gibberish of AI. Let’s get real. Just how on earth did Yaroslav Goncharov shoot his app to fame?<br></p>
+
+
+
+<h2><strong>1. How to get to the top</strong></h2>
+
+
+
+<p>By all means, <font color="#ff57f1">this is a perfect example of user-centered design.</font> Yaroslav and his team nailed an important ingredient in app development &#8211; user engagement. Take their marketing for example &#8211; an inexpensive viral campaign that saw big-time celebrities like Drake, Dwyane Wade and Iggy Azalea take to social media for the “FaceApp Challenge” and drawing in millions of their fans plus many other influencers.<br></p>
+
+
+
+<p>As expected, it easily became the most downloaded app in both the Play Store and the Apple Store. And all this for almost nothing!<br></p>
+
+
+
+<figure class="wp-block-embed-twitter aligncenter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<div class="video-container"><blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">LMFAOOO <img src="https://s.w.org/images/core/emoji/11/72x72/1f62d.png" alt="😭" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/FaceAppChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#FaceAppChallenge</a> <a href="https://t.co/TyHgkFGMnl">pic.twitter.com/TyHgkFGMnl</a></p>&mdash; brianna c (@100briii) <a href="https://twitter.com/100briii/status/1153915635019255808?ref_src=twsrc%5Etfw">July 24, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+</div></figure>
+
+
+
+<h2><font color="#ff57f1"><strong>2. Privacy is not negotiable</strong></font></h2>
+
+
+
+<p>Now, as with any other app that collects personal information these days, concerns about privacy quickly came up. This is what makes user-engagement design a two-edged sword. Wrongly handled it can cut you badly. But rightly used, it can bring you great success.&nbsp;<br></p>
+
+
+
+<p>As I mentioned above, <font color="#ff57f1">the app uses complex AI neural networks to filter millions of photos in realtime</font>. This type of technology was only previously available to law enforcement operators and clandestine establishments. Now it’s in the hands of ordinary people. And the app servers store the data. It’s like a vault with gold. How secure is it? This is causing a nightmare for many governments.<br></p>
+
+
+
+<p>With AI, if this information falls into the wrong hands there is a possibility of massive automated surveillance, identity theft and much more. In short, trouble.<br></p>
+
+
+
+<h2><strong>3. Appreciate the value of data</strong></h2>
+
+
+
+<p>Fear of mass private or state-sponsored surveillance is a big concern. And there is every reason to think that any government would want to use this data. This app is owned by a Russian company. That alone is something most western lawmakers find unnerving.&nbsp;<br></p>
+
+
+
+<p>As developers, we try to stay away from political meddling but the reality is that we live in a world that is run by politics and laws that perpetuate political ideologies. <font color="#ff57f1">All fronts, economic and otherwise, can be weaponized or used to manipulate social perception. You cannot afford to play dumb.</font><br></p>
+
+
+
+<p>Therefore, it is imperative that you do the legal prep work properly and diligently. We don’t have details as to how FaceApp is handling the latest scrutiny into their business operations and data management practices. But the mere fact that those questions are being asked is enough for us to decipher the kind of due diligence that an app developer with this amount of user data has to undertake.<br></p>
+
+
+
+<h2><strong>4. Know the legal implications of user-generated content apps</strong></h2>
+
+
+
+<p><font color="#ff57f1">Never take anything for granted. Information is money.</font> The information economy is what makes Google, Amazon, and Facebook the giant companies that they are. Take away their data and they are just as ordinary as any other IT company or sales site. But the fact is that they saw the value of user data and it’s that data that is making them money and fuelling their exponential growth.<br></p>
+
+
+
+<p>Bad actors also know this to be true. They do everything to steal data. Just take a look at the recent scandals involving Cambridge Analytica, AMCA and, just this week, Capital One. In each case, bad actors ran off with user data for criminal activities.<br></p>
+
+
+
+<h2><strong>5. Don&#8217;t take any unnecessary risks</strong></h2>
+
+
+
+<p>Failure to protect user data can result in serious penalties running potentially into millions and billions of dollars, depending on the gravity and extent of the breach. The <font color="#ff57f1">GDPR and FTC regulations are very strict. So be sure to be wise how you manage and store personally identifiable user data.</font><br></p>
+
+
+
+<p>To be safe, if you know you will be handling PHI or personally identifiable information, hire a cybersecurity lawyer and have an information management strategy in place. This includes having a very precise and detailed privacy policy in place. We provide free privacy policy templates for all our developers.<br></p>
+
+
+
+<h2><strong>Wrapping up</strong></h2>
+
+
+
+<p>FaceApp has set the tone for a range of possibilities in app development. Even though you can’t build an app like FaceApp in Andromo, <font color="#ff57f1">you can still create an idea which is capable of attracting the interest of millions. Use your imagination, take examples from viral cases, and you might get in luck.</font></p>
+
+
+
+<p>If there is anything you can take away from this recent craze, it’s that no matter how many apps are built, people will still download a good app even if it comes late in the game. There are billions of apps on the marketplaces today. But, it’s apps like FaceApp &#8211; those focused on users &#8211; that take the day. So start planning your app with your users in mind. That is a formula for success.<br></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2019/5-important-lessons-you-can-learn-from-faceapp/">5 Important Lessons from FaceApp</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2019/5-important-lessons-you-can-learn-from-faceapp/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5086</post-id>	</item>
+		<item>
+		<title>Integrate Firebase Analytics on your Andromo App</title>
+		<link>https://blog.andromo.com/2019/integrate-firebase-analytics-on-your-andromo-app/</link>
+		<comments>https://blog.andromo.com/2019/integrate-firebase-analytics-on-your-andromo-app/#respond</comments>
+		<pubDate>Fri, 26 Jul 2019 09:51:21 +0000</pubDate>
+		<dc:creator><![CDATA[Andromo Tech]]></dc:creator>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Tutorial]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=5055</guid>
+		<description><![CDATA[<p>Google Analytics is not designed for mobile apps. In fact, it is very difficult for you to get actionable reports about your mobile app using Google Analytics data. For that, you need Firebase. Google Analytics for Firebase is specially designed for mobile apps. It is optimized to track the performance of your mobile app with&#8230;</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2019/integrate-firebase-analytics-on-your-andromo-app/">Integrate Firebase Analytics on your Andromo App</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<p><font color="#ff57f1">Google Analytics is not designed for mobile apps.</font> In fact, it is very difficult for you to get actionable reports about your mobile app using Google Analytics data. For that, you need Firebase. </p>
+
+
+
+<p>Google Analytics for <font color="#ff57f1">Firebase is specially designed for mobile apps. </font> It is optimized to track the performance of your mobile app with more than 500 parameters. See the video below to find out more about this amazing platform.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="video-container"><iframe class='youtube-player' type='text/html' width='640' height='360' src='https://www.youtube.com/embed/videoseries?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&#038;hl=en_US' allowfullscreen='true' style='border:0;'></iframe></div>
+</div></figure>
+
+
+
+<p>We are excited to announce that we have successfully completed the legwork that allows you to <font color="#ff57f1">integrate Firebase Analytics into your Andromo app with just two clicks.</font> Yes, it&#8217;s that simple!</p>
+
+
+
+<h2>Get better insights on your users </h2>
+
+
+
+<p>Firebase Analytics gives you data about how your users interact with your app. You can track a wide array of behaviors from downloads to shares, to actions such as using the camera for a selfie in your app and more. These are almost all impossible in Google Analytics. </p>
+
+
+
+<p>This data will help you plan and make better product development decisions. You can <font color="#ff57f1">market more accurately,</font> as well as optimize your app without worrying about spending resources on things your users won&#8217;t use.</p>
+
+
+
+<p>Firebase also shows crash data, notification effectiveness, deep-link performance, in-app purchase data, and more in <font color="#ff57f1">real-time. </font></p>
+
+
+
+<h2>Ad Network Revenue tracking</h2>
+
+
+
+<p>Get more from Firebase by linking your AdMob account. Firebase Analytics reports merge with ad metrics and AdMob revenue, showing you the real lifetime value of your users, as well as the performance of your in-app advertising campaigns. With this, you will <font color="#ff57f1">know who exactly your target audience is,</font> and target them more effectively.</p>
+
+
+
+<h2>Unparalleled Segmentation and Targeting</h2>
+
+
+
+<p>Fine-tune your targeting with unmatched precision. Create Firebase custom audiences based on device data and user behavior. Using events and user properties, you can define highly targeted segments for notifications, A/B tests (with <a href="https://firebase.google.com/products/remote-config">Firebase Remote Config</a>), and remarketing. If you want to take your analysis to the next level, export your raw data to <a href="https://cloud.google.com/bigquery">BigQuery</a>. That&#8217;s a topic for another day.</p>
+
+
+
+<h2>Setting up Firebase on Andromo</h2>
+
+
+
+<p>Enabling Firebase Analytics on your Andromo mobile app is very easy. <font color="#ff57f1">No coding or complex steps are required.</font> Please note that for this to work, you will need a Google Firebase account. If you don’t have one, create your account <a href="https://firebase.google.com">here</a>.<br></p>
+
+
+
+<p><strong>First, you’ll need to add your app to Firebase.</strong><br>Log in to your Firebase account and go to your console. On your console’s left panel navigation, click on Analytics to expand the menu and then select ‘Dashboard’.<br><br><img scale="0" class="wp-image-5059" style="width: 1000px;" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Dashboard-Firebase.png?ssl=1" alt="" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Dashboard-Firebase.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Dashboard-Firebase.png?resize=600%2C259&amp;ssl=1 600w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Dashboard-Firebase.png?resize=768%2C332&amp;ssl=1 768w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Dashboard-Firebase.png?resize=1000%2C432&amp;ssl=1 1000w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Dashboard-Firebase.png?w=2000&amp;ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><br></p>
+
+
+
+<p><strong>Select Android, to add your app.</strong><br><br><img scale="0" class="wp-image-5062" style="width: 400px;" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Add-an-app.png?ssl=1" alt="" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Add-an-app.png?w=826&amp;ssl=1 826w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Add-an-app.png?resize=600%2C376&amp;ssl=1 600w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Add-an-app.png?resize=768%2C481&amp;ssl=1 768w" sizes="(max-width: 826px) 100vw, 826px" data-recalc-dims="1" /><br></p>
+
+
+
+<p><strong>Enter the package name of your app on the succeeding screen and then click “Register app&#8221;, then download the config file.</strong><br><br><img scale="0" class="wp-image-5064" style="width: 1000px;" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Register-app-Firebase.png?ssl=1" alt="" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Register-app-Firebase.png?w=1928&amp;ssl=1 1928w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Register-app-Firebase.png?resize=600%2C411&amp;ssl=1 600w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Register-app-Firebase.png?resize=768%2C527&amp;ssl=1 768w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2019/07/Register-app-Firebase.png?resize=1000%2C686&amp;ssl=1 1000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><br></p>
